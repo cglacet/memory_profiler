@@ -40,7 +40,7 @@ Operating System :: Unix
 """
 
 setup(
-    name='cglacet/memory_profiler',
+    name='cglacet-memory_profiler',
     description='A module for monitoring memory usage of a python program',
     long_description=open('README.rst').read(),
     version=find_version("memory_profiler.py"),
