@@ -41,7 +41,7 @@ Operating System :: Unix
 
 
 setup(
-    name='memory_profiler',
+    name='cglacet-memory-profiler',
     description='A module for monitoring memory usage of a python program',
     long_description=open('README.rst').read(),
     version=find_version("memory_profiler", "__init__.py"),
